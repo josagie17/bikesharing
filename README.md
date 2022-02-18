@@ -9,25 +9,32 @@ Purpose of this analysis is to perform a review of Citi Bike Data for New York C
 https://public.tableau.com/app/profile/joshua.osagie/viz/NYCcitibiketableau/NYCCitiBikeAnlaysis?publish=yes
 
 "C:\Users\josag\OneDrive\Desktop\bikesharing\Images\Total Number of Rides.png"
+
 The image above shows the total amount of Citi Bike trips in New York City
 
 "C:\Users\josag\OneDrive\Desktop\bikesharing\Images\Total numbers of Rides.png"
+
 The image above shows the total amount of Citi Bike trips in New York City.
 
 "C:\Users\josag\OneDrive\Desktop\bikesharing\Images\Checkout Times for Users.png"
+
 The figure above shows the overall user checkout times.
 
 "C:\Users\josag\OneDrive\Desktop\bikesharing\Images\Checkout Times by Gender.png"
+
 The graphic above shows the checkout timings by gender.
 
 
 "C:\Users\josag\OneDrive\Desktop\bikesharing\Images\Trips By Weekday Per hour.png"
+
 The graphic above shows the overall peak riding times per hour each day.
 
 "C:\Users\josag\OneDrive\Desktop\bikesharing\Images\Trips By Gender (Weekday Per hour).png"
+
 The picture above shows the riding times based on gender and weekday.
 
 "C:\Users\josag\OneDrive\Desktop\bikesharing\Images\User Trips by Gender by Weekday.png"
+
 The graphic above shows a split of overall customer use statistics (subscribers and non-subscribers) by gender and day of the week.
 
 
