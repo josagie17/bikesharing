@@ -8,7 +8,8 @@ Purpose of this analysis is to perform a review of Citi Bike Data for New York C
 
 https://public.tableau.com/app/profile/joshua.osagie/viz/NYCcitibiketableau/NYCCitiBikeAnlaysis?publish=yes
 
-"C:\Users\josag\OneDrive\Desktop\bikesharing\Images\Total Number of Rides.png"
+![image](https://user-images.githubusercontent.com/92246505/154909276-6b01bdf2-6a54-4bf7-98e6-9a30a7759478.png)
+
 
 The image above shows the total amount of Citi Bike trips in New York City
 
