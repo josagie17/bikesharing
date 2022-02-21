@@ -33,6 +33,10 @@ The picture above shows the riding times based on gender and weekday.
 
 The graphic above shows a split of overall customer use statistics (subscribers and non-subscribers) by gender and day of the week.
 
+![image](https://user-images.githubusercontent.com/92246505/154911006-1791f0ca-d64b-432a-9b07-b494303cf687.png)
+
+The graphic above shows the type of customers
+
 
 Summary:
 
