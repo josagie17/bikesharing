@@ -15,26 +15,21 @@ The image above shows the total amount of Citi Bike trips in New York City
 
 ![image](https://user-images.githubusercontent.com/92246505/154909590-733b5771-b612-4d58-9daa-3c5d7744e2aa.png)
 
-The image above shows the total amount of Citi Bike trips in New York City.
-
-"C:\Users\josag\OneDrive\Desktop\bikesharing\Images\Checkout Times for Users.png"
-
 The figure above shows the overall user checkout times.
 
-"C:\Users\josag\OneDrive\Desktop\bikesharing\Images\Checkout Times by Gender.png"
+![image](https://user-images.githubusercontent.com/92246505/154909910-7816fddb-d407-43fb-990a-752189672024.png)
 
 The graphic above shows the checkout timings by gender.
 
-
-"C:\Users\josag\OneDrive\Desktop\bikesharing\Images\Trips By Weekday Per hour.png"
+![image](https://user-images.githubusercontent.com/92246505/154910500-f9e0ffb1-2d49-4f37-97fb-215c50d84adc.png)
 
 The graphic above shows the overall peak riding times per hour each day.
 
-"C:\Users\josag\OneDrive\Desktop\bikesharing\Images\Trips By Gender (Weekday Per hour).png"
+![image](https://user-images.githubusercontent.com/92246505/154910680-3ef3a2a0-5e42-45a3-a404-5de64c547f2a.png)
 
 The picture above shows the riding times based on gender and weekday.
 
-"C:\Users\josag\OneDrive\Desktop\bikesharing\Images\User Trips by Gender by Weekday.png"
+![image](https://user-images.githubusercontent.com/92246505/154910732-22858617-7649-43df-9961-22a895260d64.png)
 
 The graphic above shows a split of overall customer use statistics (subscribers and non-subscribers) by gender and day of the week.
 
