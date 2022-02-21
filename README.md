@@ -13,7 +13,7 @@ https://public.tableau.com/app/profile/joshua.osagie/viz/NYCcitibiketableau/NYCC
 
 The image above shows the total amount of Citi Bike trips in New York City
 
-"C:\Users\josag\OneDrive\Desktop\bikesharing\Images\Total numbers of Rides.png"
+![image](https://user-images.githubusercontent.com/92246505/154909590-733b5771-b612-4d58-9daa-3c5d7744e2aa.png)
 
 The image above shows the total amount of Citi Bike trips in New York City.
 
